@@ -53,7 +53,11 @@ If issues with simulation arise...
 
 ## Authors
 
-University of Arizona Team
+University of Arizona Team 1:
+Samuel Moreno
+Ben Trout
+Perla Gutierrez
+Dalia Castro
 
 In Collaboration with MITRE Caldera - caldera@mitre.org
 
